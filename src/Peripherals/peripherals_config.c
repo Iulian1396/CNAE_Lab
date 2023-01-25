@@ -17,6 +17,7 @@
 *******************************************************************************/
 #include "peripherals_config.h"
 #include "ftm_hw_access.h"
+#include "freemaster.h"
 ftm_state_t statePwm3;
 ftm_state_t stateMc0;
 ftm_state_t stateIc1;
@@ -142,7 +143,7 @@ void McuLpuartConfig(void)
 {
 	/* LPUART module initialization */
 	LPUART_DRV_Init(INST_LPUART1, &lpuart1_State, &lpuart_1_InitConfig0);
-	//INT_SYS_InstallHandler(LPUART1_RxTx_IRQn, FMSTR_Isr, NULL);
+	INT_SYS_InstallHandler(LPUART1_RxTx_IRQn, FMSTR_Isr, NULL);
 }
 
 /*******************************************************************************

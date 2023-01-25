@@ -1,7 +1,7 @@
 -L"C:/NXP/S32DS.3.5/S32DS/software/AMMCLIB_v1.1.31/S32K14x_AMMCLIB_v1.1.31/lib/s32ds_arm32"
 -z muldefs
 -T
-"E:/WorkSpace_NXP/ws_3.5/bldc_moc/Project_Settings/Linker_Files/S32K144_64_flash.ld"
+"E:/WorkSpace_NXP/Git/CNAE_Lab/Project_Settings/Linker_Files/S32K144_64_flash.ld"
 -Wl,-Map,"bldc_moc.map"
 -Xlinker
 --gc-sections

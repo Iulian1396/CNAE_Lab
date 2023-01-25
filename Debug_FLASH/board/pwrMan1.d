@@ -1,11 +1,11 @@
 board/pwrMan1.o: ../board/pwrMan1.c ../board/pwrMan1.h \
  ../board/clock_config.h ../SDK/platform/drivers/inc/clock.h \
- E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/device_registers.h \
- E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/common/s32_core_cm4.h \
- E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/S32K144/include/S32K144.h \
- E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/S32K144/include/S32K144_features.h \
- E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/devassert.h \
- E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/status.h \
+ E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/device_registers.h \
+ E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/common/s32_core_cm4.h \
+ E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/S32K144/include/S32K144.h \
+ E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/S32K144/include/S32K144_features.h \
+ E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/devassert.h \
+ E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/status.h \
  ../SDK/platform/drivers/inc/../src/clock/S32K1xx/clock_S32K1xx.h \
  ../board/sdk_project_config.h ../board/pin_mux.h \
  ../SDK/platform/drivers/inc/pins_driver.h ../board/peripherals_trgmux1.h \
@@ -17,7 +17,7 @@ board/pwrMan1.o: ../board/pwrMan1.c ../board/pwrMan1.h \
  C:/NXP/S32DS.3.5/S32DS/software/S32SDK_S32K1XX_RTM_4.0.1/platform/drivers/inc/clock_manager.h \
  C:/NXP/S32DS.3.5/S32DS/software/S32SDK_S32K1XX_RTM_4.0.1/platform/drivers/inc/clock.h \
  ../SDK/rtos/osif/osif.h \
- E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/callbacks.h \
+ E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/callbacks.h \
  ../SDK/platform/drivers/inc/lpspi_slave_driver.h \
  ../SDK/platform/drivers/inc/lpspi_shared_function.h \
  ../board/peripherals_flexTimer_pwm3.h \
@@ -44,17 +44,17 @@ board/pwrMan1.o: ../board/pwrMan1.c ../board/pwrMan1.h \
 
 ../SDK/platform/drivers/inc/clock.h:
 
-E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/device_registers.h:
+E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/device_registers.h:
 
-E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/common/s32_core_cm4.h:
+E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/common/s32_core_cm4.h:
 
-E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/S32K144/include/S32K144.h:
+E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/S32K144/include/S32K144.h:
 
-E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/S32K144/include/S32K144_features.h:
+E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/S32K144/include/S32K144_features.h:
 
-E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/devassert.h:
+E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/devassert.h:
 
-E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/status.h:
+E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/status.h:
 
 ../SDK/platform/drivers/inc/../src/clock/S32K1xx/clock_S32K1xx.h:
 
@@ -82,7 +82,7 @@ C:/NXP/S32DS.3.5/S32DS/software/S32SDK_S32K1XX_RTM_4.0.1/platform/drivers/inc/cl
 
 ../SDK/rtos/osif/osif.h:
 
-E:/WorkSpace_NXP/ws_3.5/bldc_moc/SDK/S32K144_SDK_4.0.1/platform/devices/callbacks.h:
+E:/WorkSpace_NXP/Git/CNAE_Lab/SDK/S32K144_SDK_4.0.1/platform/devices/callbacks.h:
 
 ../SDK/platform/drivers/inc/lpspi_slave_driver.h:
 

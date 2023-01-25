@@ -57,7 +57,7 @@ bldc_moc.siz \
 all: bldc_moc.elf secondary-outputs
 
 # Tool invocations
-bldc_moc.elf: $(OBJS) E:/WorkSpace_NXP/ws_3.5/bldc_moc/Project_Settings/Linker_Files/S32K144_64_flash.ld $(USER_OBJS)
+bldc_moc.elf: $(OBJS) E:/WorkSpace_NXP/Git/CNAE_Lab/Project_Settings/Linker_Files/S32K144_64_flash.ld $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: Standard S32DS C Linker'
 	arm-none-eabi-gcc -o "bldc_moc.elf" "@bldc_moc.args"  $(USER_OBJS)
