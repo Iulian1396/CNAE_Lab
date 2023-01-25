@@ -1,0 +1,4 @@
+FILTER_SDKs_SHOW_LATEST_VERSIONS=false
+com.freescale.s32ds.cross.sdk.support.attachedSDKs=FreeMaster_S32K144_2.0.0_PATH|Debug_FLASH|Release_FLASH|Debug_RAM|Release_RAM\:AMMCLIB_S32K14x_1.1.31_PATH|Debug_FLASH|Release_FLASH|Debug_RAM|Release_RAM\:S32K144_SDK_4.0.1_PATH|Debug_FLASH|Release_FLASH|Debug_RAM|Release_RAM
+com.nxp.s32ds.cle.runtime.sdk.mgmt.version=3.5
+eclipse.preferences.version=1
