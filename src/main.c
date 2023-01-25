@@ -188,6 +188,8 @@ int main(void)
 	McuIntConfig();
 	McuTrigmuxConfig();
 	McuPinsConfig();
+	// Lessons Learned -  nu configura pinii rutati automat catre perifericele dorite.
+	// Daca ii configurezi, va oferi eroare de acccesare concurenta.
 	McuLpuartConfig();
 	McuLpitConfig();
 	McuAdcConfig();
