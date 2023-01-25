@@ -3,8 +3,8 @@
 -DCPU_S32K144
 -I../SDK/platform/drivers/inc
 -I../SDK/platform/drivers/src/ftm
--I../SDK/platform/drivers/src/lpuart
 -I../SDK/rtos/osif
+-I../SDK/platform/drivers/src/lpuart
 -I"E:/WorkSpace_NXP/Git/CNAE_Lab/src/Config"
 -I"E:/WorkSpace_NXP/Git/CNAE_Lab/src/GD3000"
 -I"E:/WorkSpace_NXP/Git/CNAE_Lab/src/Peripherals"

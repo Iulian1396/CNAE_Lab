@@ -119,7 +119,7 @@ ftm_input_ch_param_t flexTimer_ic_1_InputCaptureChannelConfig[1] =
         FTM_NO_MEASUREMENT, /* Signal measurement operation type */
         0U, /* Filter value */
         false, /* Filter state (enabled/disabled) */
-		true, /* Continuous measurement state */
+        false, /* Continuous measurement state */
         NULL, /* Vector of callbacks  parameters for channels events */
         FTM2_Callback /* Vector of callbacks for channels events */
     }

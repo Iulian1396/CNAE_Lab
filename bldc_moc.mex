@@ -17,7 +17,7 @@
       <generate_registers_defines>false</generate_registers_defines>
    </preferences>
    <tools>
-      <pins name="Pins" version="11.0" enabled="true" update_project_code="true">
+      <pins name="Pins" version="11.0" enabled="true" update_project_code="false">
          <generated_project_files>
             <file path="board/pin_mux.c" update_enabled="true"/>
             <file path="board/pin_mux.h" update_enabled="true"/>
@@ -527,7 +527,7 @@
             <file path="board/peripherals_adConv1.h" update_enabled="true"/>
             <file path="board/peripherals_dmaController1.c" update_enabled="true"/>
             <file path="board/peripherals_dmaController1.h" update_enabled="true"/>
-            <file path="board/peripherals_flexTimer_ic_1.c" update_enabled="false"/>
+            <file path="board/peripherals_flexTimer_ic_1.c" update_enabled="true"/>
             <file path="board/peripherals_flexTimer_ic_1.h" update_enabled="true"/>
             <file path="board/peripherals_flexTimer_mc0.c" update_enabled="true"/>
             <file path="board/peripherals_flexTimer_mc0.h" update_enabled="true"/>
